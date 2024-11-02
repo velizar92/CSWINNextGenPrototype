@@ -1,0 +1,6 @@
+@CSWIN.ComponentsAPI_HostAddress = http://localhost:5106
+
+GET {{CSWIN.ComponentsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
